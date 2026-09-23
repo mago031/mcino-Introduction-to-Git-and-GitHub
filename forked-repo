@@ -1,0 +1,3 @@
+curl.exe -s https://api.github.com/repos/mago031/mcino-Introduction-to-Git-and-GitHub | jq -r '.parent.clone_url'
+https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git
+PS D:\git>
